@@ -1,0 +1,21 @@
+.body {
+    background-color: #555;
+}
+
+.container-image {
+    background: url(bw2.jpg);
+    background-repeat: repeat;
+    justify-content: center;
+}
+
+.container-doc {
+    background: url(bw2.jpg);
+    background-repeat: repeat;
+    margin: 25px;
+}
+
+.container-catkak {
+    font-size: medium;
+    justify-items: end;
+    margin: 25px;
+}
